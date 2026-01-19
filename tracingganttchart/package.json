@@ -42,7 +42,7 @@
     "use-resize-observer": "^9.0.0"
   },
   "devDependencies": {
-    "react-router-dom": "^5 || ^6 || ^7"
+    "react-router-dom": "^7"
   },
   "files": [
     "lib/**/*",
