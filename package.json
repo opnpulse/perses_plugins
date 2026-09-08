@@ -76,7 +76,7 @@
     "jest-environment-jsdom": "^29.7.0",
     "mdi-material-ui": "^7.9.2",
     "react-router": "^6.30.3",
-    "react-router-dom": "^6.30.3",
+    "react-router-dom": "^6.30.6",
     "rsbuild-plugin-dts": "^0.18.0",
     "ts-node": "^10.9.2",
     "tsx": "^4.19.2",
